@@ -34,10 +34,10 @@ The core rule is the **believability test**: every sentence must be something th
 
 ## Usage
 
-- "Simplify this, my English isn't good enough to speak this well: ..."
-- "Answer this question from an employer, keep it in my voice"
-- "Make this email sound like me, not like an AI"
-- "Rewrite my cover letter so I could defend every sentence in an interview"
+- "This sounds too fancy for me, use simpler words: ..."
+- "Rewrite this message the way everyday people actually talk"
+- "Make this email sound like normal, not like an AI dictionary"
+- "Simplify my README intro, plain words only, keep the numbers"
 
 ## Attribution
 
