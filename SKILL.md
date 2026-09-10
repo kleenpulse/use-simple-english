@@ -27,7 +27,7 @@ If the sentence needs a thesaurus to produce, it fails. If a hiring manager woul
 
 ## Voice Rules
 
-1. Short sentences. One idea per sentence.
+1. **Shorter sentences are a default, not a quota.** One idea per sentence is a good target, and for short, high-stakes text (form answers, DMs, an interview reply) it is close to a rule. But this is conditional. In longer prose like blogs, essays, and READMEs, vary sentence length for rhythm: all-short sentences read choppy and machine-made, which is its own believability tell. Never chop a sentence only to obey this rule if it costs a fact or the natural cadence. The real gate is the believability test, not word count. A longer sentence the owner can say out loud in one breath beats two clipped ones they would never say.
 2. Common words over impressive ones. See the swap table.
 3. **No em-dashes, ever.** Use a comma, a period, or the word "and". Em-dashes are the strongest AI-writing tell.
 4. Active voice with a visible subject: "I built X", not "X was achieved".
